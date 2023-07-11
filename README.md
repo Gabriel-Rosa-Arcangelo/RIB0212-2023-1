@@ -16,7 +16,7 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/your-username/sacroiliac-detection.git
+git clone https://github.com/Gabriel-Rosa-Arcangelo/RIB0212-2023-1
 Open the main.ipynb file in the Google Colab environment.
 
 Execute the code cells sequentially to load the libraries, mount Google Drive, install dependencies, and run the sacroiliac detection code.
